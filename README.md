@@ -84,14 +84,6 @@ streamlit run app.py
 
 ---
 
-## 📷 Preview
-
-| Ask a question | Get the response |
-|:--------------:|:----------------:|
-| ![User Input](https://via.placeholder.com/300x200.png?text=User+Question) | ![Bot Response](https://via.placeholder.com/300x200.png?text=Assistant+Response) |
-
----
-
 ## 📌 Important Notes
 - **OpenAI API Key** must have sufficient quota or usage limits.
 - **LangChain API Key** is required for internal tracing/debugging (optional but recommended).
